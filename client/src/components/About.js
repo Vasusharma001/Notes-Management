@@ -11,7 +11,7 @@ const About = (props) => {
               </button>
             </h2>
             <div id="flush-collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-              <div className="accordion-body"><code>Lakshay Nijhawan</code></div>
+              <div className="accordion-body"><code>Vasu Sharma</code></div>
             </div>
           </div>
           <div className={`accordion-item bg-${props.mode}`} >
